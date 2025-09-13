@@ -4,7 +4,7 @@ Privacy Policy
 
 Last updated: 11/09/2025
 
-This Privacy Policy explains how SpeedCoins handles data when you use it.
+This Privacy Policy explains how Skyblock Stats handles data when you use it.
 
 1. Data We Collect
 
