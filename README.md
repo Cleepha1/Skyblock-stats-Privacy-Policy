@@ -1,5 +1,5 @@
-# SpeedCoins-Privacy-Policy
-SpeedCoins Bot Privacy Policy
+# Skyblock Stats-Privacy-Policy
+Skyblock Stats Bot Privacy Policy
 Privacy Policy
 
 Last updated: 11/09/2025
